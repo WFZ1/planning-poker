@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7fb5cdc6.chunk.css",
-    "main.js": "/static/js/main.dc66cb97.chunk.js",
-    "main.js.map": "/static/js/main.dc66cb97.chunk.js.map",
+    "main.js": "/static/js/main.4b5264e7.chunk.js",
+    "main.js.map": "/static/js/main.4b5264e7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4fe59a2e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4fe59a2e.js.map",
     "static/js/2.39aa4252.chunk.js": "/static/js/2.39aa4252.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.7fb5cdc6.chunk.css.map": "/static/css/main.7fb5cdc6.chunk.css.map",
     "static/js/2.39aa4252.chunk.js.LICENSE.txt": "/static/js/2.39aa4252.chunk.js.LICENSE.txt",
-    "static/js/main.dc66cb97.chunk.js.LICENSE.txt": "/static/js/main.dc66cb97.chunk.js.LICENSE.txt",
+    "static/js/main.4b5264e7.chunk.js.LICENSE.txt": "/static/js/main.4b5264e7.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Roboto-ThinItalic.1199b1ad.woff2",
     "static/media/GameCard.scss": "/static/media/cover2.65138fe5.png",
     "static/media/Header.scss": "/static/media/logo.cca1ea51.svg",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.4fe59a2e.js",
     "static/js/2.39aa4252.chunk.js",
     "static/css/main.7fb5cdc6.chunk.css",
-    "static/js/main.dc66cb97.chunk.js"
+    "static/js/main.4b5264e7.chunk.js"
   ]
 }
